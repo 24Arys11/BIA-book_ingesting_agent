@@ -1,0 +1,1335 @@
+{
+  "nodes": [
+    {
+      "id": "model_m",
+      "name": "model_m",
+      "romanian": "model M",
+      "function": "Constructs and processes sensory-based representations of external reality.",
+      "inputs": [
+        "sensory_signal",
+        "external_stimulus",
+        "sensory_data"
+      ],
+      "outputs": [
+        "perceptual_data",
+        "model_imagine",
+        "perceptual_representation"
+      ],
+      "type": "model"
+    },
+    {
+      "id": "model_ym",
+      "name": "model_ym",
+      "romanian": "model YM",
+      "function": "Stores conceptual representations of discovered elements in external reality, used by other models for interpretation.",
+      "inputs": [
+        "perceptual_data",
+        "contextual_info"
+      ],
+      "outputs": [
+        "conceptual_representation"
+      ],
+      "type": "model"
+    },
+    {
+      "id": "model_zm",
+      "name": "model_zm",
+      "romanian": "model ZM",
+      "function": "Advanced models with long-term scope that integrate sensory data from model_image_m and perform higher-level predictions about external reality.",
+      "inputs": [
+        "sensory_data_from_m",
+        "existing_model_zm_state",
+        "model_m_data",
+        "model_ym_data",
+        "label_input",
+        "sensory_signal",
+        "environmental_data",
+        "uncertainty_level",
+        "external_reality_data",
+        "sensory_input"
+      ],
+      "outputs": [
+        "integrated_model",
+        "evolution_prediction",
+        "long_term_prediction",
+        "model_structure",
+        "response",
+        "behavioral_output",
+        "adaptive_strategy",
+        "decision_support",
+        "model_prediction",
+        "improved_zam_model"
+      ],
+      "type": "model"
+    },
+    {
+      "id": "model_zam",
+      "name": "model_zam",
+      "romanian": "model ZAM",
+      "function": "Artificial and invariant model constructed by ZM to serve as a reference for modifying external reality.",
+      "inputs": [
+        "model_zm_output",
+        "external_reality_target",
+        "zm_model_output",
+        "contextual_data",
+        "zm_model",
+        "imperfect_prediction"
+      ],
+      "outputs": [
+        "reference_model",
+        "behavioral_plan",
+        "long_term_prediction",
+        "action",
+        "risk_evaluation"
+      ],
+      "type": "model"
+    },
+    {
+      "id": "model_azm",
+      "name": "model_azm",
+      "romanian": "model AZM",
+      "function": "Action-oriented model associated with physical organs, used to execute actions on the external reality.",
+      "inputs": [
+        "reference_model",
+        "simulated_action"
+      ],
+      "outputs": [
+        "motor_command"
+      ],
+      "type": "model"
+    },
+    {
+      "id": "model_imagine",
+      "name": "model_imagine",
+      "romanian": "model imagine",
+      "function": "Represents internal reality based on direct sensory experience and is used for controlling bodily functions and sexual behavior.",
+      "inputs": [
+        "external_reality_input",
+        "sensory_data",
+        "biological_state"
+      ],
+      "outputs": [
+        "perceptual_representation",
+        "model_activation",
+        "behavioral_pattern",
+        "instinctive_response"
+      ],
+      "type": "model"
+    },
+    {
+      "id": "model_symbolic",
+      "name": "model_symbolic",
+      "romanian": "model simbolic",
+      "function": "A symbolic model that associates words with a collection of truths derived from an associated model imagine, enabling abstract reasoning.",
+      "inputs": [
+        "collection_of_truths",
+        "model_imagine_associated",
+        "technical specifications",
+        "environmental variables",
+        "logical_rules",
+        "symbolic_data",
+        "prior_model",
+        "data",
+        "objective",
+        "system constraints",
+        "legal_rules",
+        "scientific_data",
+        "ethical_principles",
+        "element_definitions",
+        "relationship_rules"
+      ],
+      "outputs": [
+        "symbolic_definition",
+        "abstract_reasoning_capability",
+        "predicted outcomes",
+        "simulation results",
+        "prediction",
+        "logical_consistency_check",
+        "structured_decision framework",
+        "predictive simulation result",
+        "rational_decision",
+        "non_sensory_based_action",
+        "simulation_results"
+      ],
+      "type": "model"
+    },
+    {
+      "id": "label",
+      "name": "label",
+      "romanian": "eticheta",
+      "function": "A simplified information unit derived from a model imagine that directly activates a ZM model without full model construction.",
+      "inputs": [
+        "simplified_information",
+        "model_imagine"
+      ],
+      "outputs": [
+        "direct_zm_activation",
+        "model_zm_trigger"
+      ],
+      "type": "component"
+    },
+    {
+      "id": "function_translation",
+      "name": "function_translation",
+      "romanian": "functia de translatare",
+      "function": "Translates image models into symbolic models, enabling higher-level cognitive operations.",
+      "inputs": [
+        "model_imagine",
+        "conceptualization_level"
+      ],
+      "outputs": [
+        "model_symbolic",
+        "symbolic_representation"
+      ],
+      "type": "function"
+    },
+    {
+      "id": "psm",
+      "name": "psm",
+      "romanian": "PSM",
+      "function": "Acts as a persistent, invariant cognitive framework that resists change and maintains internal consistency regardless of external information.",
+      "inputs": [
+        "external_reality",
+        "lack_of_adequate_model",
+        "model_integration_request",
+        "new_experience",
+        "external_entity",
+        "external_information",
+        "model_conflict",
+        "unresolved_problem_signal",
+        "danger_signal",
+        "internal_or_external_trigger",
+        "invariant_model",
+        "model_failure_signal",
+        "external_danger_signal",
+        "behavioral_data",
+        "cultural_context"
+      ],
+      "outputs": [
+        "control_over_behavior",
+        "initiates_new_model_construction",
+        "stability_confirmation",
+        "screening_decision",
+        "invariant_model_activation",
+        "reflexive_action",
+        "self_integration",
+        "invariant_model",
+        "distorted_perception",
+        "wake_up_signal",
+        "memory_trace_of_problem",
+        "emergency_response",
+        "survival_action",
+        "instinctive_pattern",
+        "moral_guidance"
+      ],
+      "type": "model"
+    },
+    {
+      "id": "zm_unit",
+      "name": "zm_unit",
+      "romanian": "ZM",
+      "function": "Serves as the active, primary model responsible for initiating and coordinating actions based on predictions derived from other models.",
+      "inputs": [
+        "prediction_from_model",
+        "contextual_data"
+      ],
+      "outputs": [
+        "action_command",
+        "activation_signal"
+      ],
+      "type": "unit"
+    },
+    {
+      "id": "zam_module",
+      "name": "zam_module",
+      "romanian": "ZAM",
+      "function": "A subordinate model that can be activated by ZM to perform specific tasks, requiring initialization with real-world data or self-discovery of starting conditions.",
+      "inputs": [
+        "initialization_data",
+        "contextual_cue"
+      ],
+      "outputs": [
+        "task_execution_signal",
+        "state_update"
+      ],
+      "type": "module"
+    },
+    {
+      "id": "prediction_circuit",
+      "name": "prediction_circuit",
+      "romanian": "circuitul de predictie",
+      "function": "Simulates future evolution of models based on current data, enabling anticipatory behavior and decision-making.",
+      "inputs": [
+        "current_model_state",
+        "external_reality"
+      ],
+      "outputs": [
+        "predicted_outcome",
+        "action_recommendation"
+      ],
+      "type": "circuit"
+    },
+    {
+      "id": "mental_simulation",
+      "name": "mental_simulation",
+      "romanian": "simulare mentală",
+      "function": "Mentally simulates a model's behavior in real-world scenarios to identify and correct flaws before physical construction.",
+      "inputs": [
+        "model image",
+        "real-world scenario"
+      ],
+      "outputs": [
+        "corrected design",
+        "behavioral prediction"
+      ],
+      "type": "process"
+    },
+    {
+      "id": "truth_association",
+      "name": "truth_association",
+      "romanian": "asocierea adevărului",
+      "function": "Generates a truth based on the outcome of a simulation within a specific model.",
+      "inputs": [
+        "simulated model",
+        "real-world validation"
+      ],
+      "outputs": [
+        "model_specific_truth"
+      ],
+      "type": "function"
+    },
+    {
+      "id": "model_validation",
+      "name": "model_validation",
+      "romanian": "validarea modelului",
+      "function": "Verifies a model's accuracy by comparing its predictions with real-world outcomes.",
+      "inputs": [
+        "model",
+        "real-world data"
+      ],
+      "outputs": [
+        "model acceptance",
+        "model refinement"
+      ],
+      "type": "process"
+    },
+    {
+      "id": "simulation_process",
+      "name": "simulation_process",
+      "romanian": "procesul de simulare pe model",
+      "function": "Tests and calibrates a symbolic model by modifying parameters and verifying outcomes against known results.",
+      "inputs": [
+        "action_plan",
+        "model_zam",
+        "model",
+        "parameter_changes",
+        "symbolic model",
+        "environmental conditions",
+        "traffic patterns",
+        "test_cases",
+        "known_outcomes"
+      ],
+      "outputs": [
+        "feasibility_result",
+        "optimal_solution",
+        "predicted outcomes",
+        "truths associated with the model",
+        "predicted performance",
+        "identified flaws",
+        "optimization suggestions",
+        "model_validation",
+        "calibration_feedback"
+      ],
+      "type": "process"
+    },
+    {
+      "id": "harmony_verification",
+      "name": "harmony_verification",
+      "romanian": "verificarea armoniei",
+      "function": "Ensures internal consistency and stability of models by checking for dissonance across all model components.",
+      "inputs": [
+        "model_structure",
+        "external_data"
+      ],
+      "outputs": [
+        "stability_status"
+      ],
+      "type": "process"
+    },
+    {
+      "id": "reality_integration",
+      "name": "reality_integration",
+      "romanian": "integrarea realitatii",
+      "function": "Integrates new models into the existing structure only if they can be harmonized with the current model system.",
+      "inputs": [
+        "new_model",
+        "existing_model_structure"
+      ],
+      "outputs": [
+        "integrated_model",
+        "harmony_status"
+      ],
+      "type": "process"
+    },
+    {
+      "id": "dynamic_model_refinement",
+      "name": "dynamic_model_refinement",
+      "romanian": "refacerea dinamica a modelului",
+      "function": "Reconstructs a model from scratch when it becomes inadequate to the external reality.",
+      "inputs": [
+        "inadequate_model",
+        "external_data"
+      ],
+      "outputs": [
+        "reconstructed_model"
+      ],
+      "type": "process"
+    },
+    {
+      "id": "story_model",
+      "name": "story_model",
+      "romanian": "model poveste",
+      "function": "Constructs narrative-based interpretations of reality from disjointed or uncorrelated information, replacing coherent models with fragmented, story-like structures.",
+      "inputs": [
+        "disparate_information",
+        "repeated_input",
+        "unresolved_experience",
+        "emotional_event",
+        "data_overload",
+        "sensory_input",
+        "sequential_events",
+        "disconnected_data_points",
+        "unintegrated_observations"
+      ],
+      "outputs": [
+        "explicit_memory",
+        "fragmentation_signal",
+        "stored_narrative",
+        "non-integrated_memory",
+        "narrative_structure",
+        "model_integration",
+        "ordered_event_sequence",
+        "narrative interpretation",
+        "fragmented understanding",
+        "contextual distortion"
+      ],
+      "type": "model"
+    },
+    {
+      "id": "model_screening",
+      "name": "model_screening",
+      "romanian": "model de ecranare",
+      "function": "A cognitive mechanism that suppresses anxiety related to existential threats, such as death, to maintain psychological stability.",
+      "inputs": [
+        "threatening_truth",
+        "psm_activation_signal",
+        "incompatible_experience",
+        "integration_failure",
+        "unstable_model",
+        "problem_without_solution",
+        "cognitive_failure_signal",
+        "emotional_distress",
+        "outdated_model",
+        "psychological_stress",
+        "existential_threat",
+        "long_term_prediction"
+      ],
+      "outputs": [
+        "stabilized_signal",
+        "reduced_psm_activation",
+        "information_isolation",
+        "behavioral_masking",
+        "stabilized_model",
+        "behavioral_control",
+        "illusory_reality",
+        "emotional_stabilization",
+        "inactive_model",
+        "emotional_stability",
+        "reduced_anxiety"
+      ],
+      "type": "model"
+    },
+    {
+      "id": "activatable_model",
+      "name": "activatable_model",
+      "romanian": "model activabil",
+      "function": "A model that behaves like a screening model until activation, then becomes a normal ZM capable of independent evolution.",
+      "inputs": [
+        "predicted_future_situation",
+        "lack_of_adequate_model"
+      ],
+      "outputs": [
+        "activated_normal_model",
+        "emotion_prevention"
+      ],
+      "type": "model"
+    },
+    {
+      "id": "xm_model",
+      "name": "xm_model",
+      "romanian": "modelul XZM",
+      "function": "Acts as an illegal, uncontrolled cognitive model that evolves independently and may transmit information without verifiable source, potentially causing erratic or dangerous behavior.",
+      "inputs": [
+        "external_reality_signal",
+        "unintegrated_experience"
+      ],
+      "outputs": [
+        "unverified_prediction",
+        "uncontrolled_action_signal"
+      ],
+      "type": "model"
+    },
+    {
+      "id": "xzm",
+      "name": "xzm",
+      "romanian": "XZM",
+      "function": "Long-duration models that have lost connection with normal model structure and evolve independently, often considered illegal or aberrant.",
+      "inputs": [
+        "disconnected_experience",
+        "internal_signal"
+      ],
+      "outputs": [
+        "aberrant_behavior",
+        "illogical_action"
+      ],
+      "type": "model"
+    },
+    {
+      "id": "wbam",
+      "name": "wbam",
+      "romanian": "WBAM",
+      "function": "Artificial models created in advance for potential encounters with new external realities lacking adequate ZM.",
+      "inputs": [
+        "novel_external_reality",
+        "prediction_failure",
+        "anticipated_situation"
+      ],
+      "outputs": [
+        "preemptive_model",
+        "avoid_psm_activation",
+        "activated_model"
+      ],
+      "type": "model"
+    },
+    {
+      "id": "consciousness_level_0",
+      "name": "consciousness_level_0",
+      "romanian": "constiinta de nivel zero",
+      "function": "Basic capacity to construct or reconstruct the fundamental model of the physical body.",
+      "inputs": [
+        "body_sensory_input",
+        "motor_feedback"
+      ],
+      "outputs": [
+        "body_model",
+        "action_capability"
+      ],
+      "type": "process"
+    },
+    {
+      "id": "consciousness_level_1",
+      "name": "consciousness_level_1",
+      "romanian": "constiinta de nivel 1",
+      "function": "Basic awareness of external reality without explicit self-reference, involving activation and initialization of a model.",
+      "inputs": [
+        "external_reality",
+        "model_activation_signal"
+      ],
+      "outputs": [
+        "implicit_self_reference",
+        "behavioral_response"
+      ],
+      "type": "process"
+    },
+    {
+      "id": "consciousness_level_2",
+      "name": "consciousness_level_2",
+      "romanian": "constiinta de nivel 2",
+      "function": "Self-reference in a model where the person appears explicitly as a member of a group or system.",
+      "inputs": [
+        "group_model",
+        "self_reference_signal"
+      ],
+      "outputs": [
+        "explicit_self_inclusion",
+        "group_coherence"
+      ],
+      "type": "process"
+    },
+    {
+      "id": "consciousness_level_3",
+      "name": "consciousness_level_3",
+      "romanian": "constiinta de nivel 3",
+      "function": "Ability to observe oneself as an element within a model from an external perspective.",
+      "inputs": [
+        "self_model",
+        "external_perspective_signal"
+      ],
+      "outputs": [
+        "meta_awareness",
+        "advanced_decision_making"
+      ],
+      "type": "process"
+    },
+    {
+      "id": "quasi_external_reality",
+      "name": "quasi_external_reality",
+      "romanian": "QER",
+      "function": "Generates a stable, invariant pseudo-reality during dreaming, used for internal cognitive processing and simulation.",
+      "inputs": [
+        "internal_state",
+        "dream_trigger"
+      ],
+      "outputs": [
+        "invariant_pseudo_reality",
+        "dream_content"
+      ],
+      "type": "system"
+    },
+    {
+      "id": "schizophrenia_parameter",
+      "name": "schizophrenia_parameter",
+      "romanian": "parametrul schizofrenie",
+      "function": "Quantifies the degree of cognitive dysfunction related to the inability to construct and harmonize long-term models with external reality.",
+      "inputs": [
+        "model_construction_effort",
+        "external_reality_change"
+      ],
+      "outputs": [
+        "dysfunction_level",
+        "pathological_threshold"
+      ],
+      "type": "function"
+    },
+    {
+      "id": "paranoia_model",
+      "name": "paranoia_model",
+      "romanian": "OMPSM",
+      "function": "A permanently invariant model embedded in the PSM that distorts all other models to maintain internal consistency regardless of external reality.",
+      "inputs": [
+        "external_information",
+        "model_conflict"
+      ],
+      "outputs": [
+        "distorted_model",
+        "invariant_belief"
+      ],
+      "type": "model"
+    },
+    {
+      "id": "qer",
+      "name": "qer",
+      "romanian": "QER",
+      "function": "A dynamically constructed, limited-scope mental model used to simulate scenarios with no viable solution, triggering PSM activation.",
+      "inputs": [
+        "external_trigger",
+        "internal_trigger",
+        "simulation_attempt"
+      ],
+      "outputs": [
+        "no_solution_result",
+        "psm_activation_signal"
+      ],
+      "type": "model"
+    },
+    {
+      "id": "model_action",
+      "name": "model_action",
+      "romanian": "model de actiune",
+      "function": "A cognitive framework guiding behavior in response to external or internal stimuli, especially in collective actions like war.",
+      "inputs": [
+        "social_acceptance",
+        "technological_capability",
+        "threat_perception"
+      ],
+      "outputs": [
+        "collective_action",
+        "behavioral_response"
+      ],
+      "type": "model"
+    },
+    {
+      "id": "model_prediction_long_batia",
+      "name": "model_prediction_long_batia",
+      "romanian": "model cu bataie lunga",
+      "function": "A predictive cognitive model capable of simulating long-term outcomes, used in decision-making and planning.",
+      "inputs": [
+        "historical_data",
+        "symbolic_rules",
+        "environmental_change"
+      ],
+      "outputs": [
+        "long_term_prediction",
+        "scenario_evaluation"
+      ],
+      "type": "model"
+    },
+    {
+      "id": "zm_sl",
+      "name": "zm_sl",
+      "romanian": "ZM-SL",
+      "function": "A subliminal symbolic model activated by implicit stimuli before being overridden by dominant reality.",
+      "inputs": [
+        "subliminal_stimulus"
+      ],
+      "outputs": [
+        "partial_prediction"
+      ],
+      "type": "model"
+    },
+    {
+      "id": "sm",
+      "name": "sm",
+      "romanian": "SM",
+      "function": "A symbolic model integrated into GCL, used to study a specific domain of external reality.",
+      "inputs": [
+        "domain_term",
+        "gcl_definition"
+      ],
+      "outputs": [
+        "predictions"
+      ],
+      "type": "model"
+    },
+    {
+      "id": "mdt",
+      "name": "mdt",
+      "romanian": "MDT",
+      "function": "Modeling-Devices Theory, a symbolic model used to define and parametrize extraterrestrial intelligence.",
+      "inputs": [
+        "extraterrestrial_parameters"
+      ],
+      "outputs": [
+        "behavioral_predictions"
+      ],
+      "type": "model"
+    },
+    {
+      "id": "model_with_long_batia",
+      "name": "model_with_long_batia",
+      "romanian": "model cu bataie lunga",
+      "function": "Simulates future outcomes of policies or systems to anticipate and prevent problems before they manifest.",
+      "inputs": [
+        "objective",
+        "existing legal framework",
+        "external reality data"
+      ],
+      "outputs": [
+        "predicted outcome",
+        "system efficiency assessment",
+        "logical consistency check"
+      ],
+      "type": "model"
+    },
+    {
+      "id": "model_with_short_batia",
+      "name": "model_with_short_batia",
+      "romanian": "model cu bataie scurta",
+      "function": "Generates immediate, reactive responses to problems after they have already manifested.",
+      "inputs": [
+        "manifested problem",
+        "current state"
+      ],
+      "outputs": [
+        "immediate corrective action",
+        "short-term solution"
+      ],
+      "type": "model"
+    },
+    {
+      "id": "public_information_system",
+      "name": "public_information_system",
+      "romanian": "sistem de informatii publice",
+      "function": "Disseminates real-time, verified data about societal conditions to enable informed public participation.",
+      "inputs": [
+        "updated data on public issues",
+        "public interest metrics"
+      ],
+      "outputs": [
+        "public awareness",
+        "informed decision-making"
+      ],
+      "type": "system"
+    },
+    {
+      "id": "educational_campaign",
+      "name": "educational_campaign",
+      "romanian": "campanie de educare",
+      "function": "Informs the public about new laws and societal changes to ensure understanding and compliance.",
+      "inputs": [
+        "new law",
+        "public comprehension level"
+      ],
+      "outputs": [
+        "public understanding",
+        "reduced resistance to change"
+      ],
+      "type": "process"
+    },
+    {
+      "id": "transitional_period",
+      "name": "transitional_period",
+      "romanian": "perioada tranzitorie",
+      "function": "Provides time and support for societal adaptation to new laws or systems through education and infrastructure development.",
+      "inputs": [
+        "new law",
+        "societal readiness"
+      ],
+      "outputs": [
+        "smooth implementation",
+        "reduced conflict"
+      ],
+      "type": "process"
+    },
+    {
+      "id": "public_feedback_loop",
+      "name": "public_feedback_loop",
+      "romanian": "bucla de feedback public",
+      "function": "Compares real-world outcomes with predicted results to evaluate and refine policies.",
+      "inputs": [
+        "actual outcomes",
+        "predicted model results"
+      ],
+      "outputs": [
+        "policy adjustment recommendation",
+        "model refinement"
+      ],
+      "type": "system"
+    },
+    {
+      "id": "three_dimensional_model_builder",
+      "name": "three_dimensional_model_builder",
+      "romanian": "construcția modelului tridimensional",
+      "function": "Constructs a 3D model from a single 2D image using contextual and prior information.",
+      "inputs": [
+        "2d_image",
+        "contextual_information",
+        "prior_knowledge"
+      ],
+      "outputs": [
+        "3d_model"
+      ],
+      "type": "module"
+    },
+    {
+      "id": "image_model_system",
+      "name": "image_model_system",
+      "romanian": "model imagine",
+      "function": "Constructs and operates image-based models for perception and interpretation of external reality.",
+      "inputs": [
+        "sensory_input",
+        "prior_model"
+      ],
+      "outputs": [
+        "interpreted_image",
+        "model_update"
+      ],
+      "type": "system"
+    },
+    {
+      "id": "model_integration_unit",
+      "name": "model_integration_unit",
+      "romanian": "integrează un model imagine",
+      "function": "Integrates a new image model into an existing image model framework.",
+      "inputs": [
+        "new_image_model",
+        "existing_image_model"
+      ],
+      "outputs": [
+        "integrated_image_model"
+      ],
+      "type": "unit"
+    },
+    {
+      "id": "model_translation_module",
+      "name": "model_translation_module",
+      "romanian": "translata un model imagine",
+      "function": "Translates an image model into a common language description.",
+      "inputs": [
+        "image_model"
+      ],
+      "outputs": [
+        "linguistic_description"
+      ],
+      "type": "module"
+    },
+    {
+      "id": "symbolic_translation_module",
+      "name": "symbolic_translation_module",
+      "romanian": "translata un model simbolic",
+      "function": "Translates a symbolic model into a common language and visual representation.",
+      "inputs": [
+        "symbolic_model"
+      ],
+      "outputs": [
+        "linguistic_description",
+        "image_model"
+      ],
+      "type": "module"
+    },
+    {
+      "id": "model_update_system",
+      "name": "model_update_system",
+      "romanian": "actualizează modelele preexistente",
+      "function": "Updates existing models based on new sensory or symbolic input.",
+      "inputs": [
+        "new_input",
+        "existing_model"
+      ],
+      "outputs": [
+        "updated_model"
+      ],
+      "type": "system"
+    },
+    {
+      "id": "screening_model_builder",
+      "name": "screening_model_builder",
+      "romanian": "construieste modele de ecranare",
+      "function": "Constructs screening models to filter or prioritize sensory or symbolic information.",
+      "inputs": [
+        "sensory_data",
+        "priority_signals"
+      ],
+      "outputs": [
+        "screening_model"
+      ],
+      "type": "module"
+    },
+    {
+      "id": "action_model_system",
+      "name": "action_model_system",
+      "romanian": "model de actiune",
+      "function": "Constructs and operates action models to guide behavior in response to external reality.",
+      "inputs": [
+        "goal_state",
+        "environmental_input"
+      ],
+      "outputs": [
+        "action_plan",
+        "execution_signal"
+      ],
+      "type": "system"
+    },
+    {
+      "id": "navigation_map_system",
+      "name": "navigation_map_system",
+      "romanian": "harta",
+      "function": "Constructs and maintains a simplified map model of external reality for navigation.",
+      "inputs": [
+        "position_data",
+        "landmark_signals"
+      ],
+      "outputs": [
+        "updated_map",
+        "navigation_instruction"
+      ],
+      "type": "system"
+    },
+    {
+      "id": "story_model_system",
+      "name": "story_model_system",
+      "romanian": "model poveste",
+      "function": "Constructs and maintains a narrative model of past successful navigation or behavior.",
+      "inputs": [
+        "past_experience",
+        "environmental_feedback"
+      ],
+      "outputs": [
+        "story_model",
+        "prediction"
+      ],
+      "type": "system"
+    },
+    {
+      "id": "protective_structure_model",
+      "name": "protective_structure_model",
+      "romanian": "PSM",
+      "function": "Maintains a protective structure model for self and others, guiding defensive or affiliative behavior.",
+      "inputs": [
+        "threat_signals",
+        "social_context"
+      ],
+      "outputs": [
+        "protective_action",
+        "behavioral_response"
+      ],
+      "type": "module"
+    },
+    {
+      "id": "action_simulation_module",
+      "name": "action_simulation_module",
+      "romanian": "simulare a actiunii",
+      "function": "Simulates an action in a model before executing it in reality.",
+      "inputs": [
+        "action_plan",
+        "environmental_model"
+      ],
+      "outputs": [
+        "success_prediction",
+        "execution_ready"
+      ],
+      "type": "module"
+    },
+    {
+      "id": "model_switching_system",
+      "name": "model_switching_system",
+      "romanian": "operare alternativă",
+      "function": "Switches between multiple models in real-time to manage complex external realities.",
+      "inputs": [
+        "multiple_models",
+        "reality_input"
+      ],
+      "outputs": [
+        "active_model",
+        "switch_signal"
+      ],
+      "type": "system"
+    },
+    {
+      "id": "model_simulation",
+      "name": "model_simulation",
+      "romanian": "model",
+      "function": "Anticipates future states of the body and generates control commands in advance to maintain dynamic stability during movement.",
+      "inputs": [
+        "sensory_feedback",
+        "prior_movement_data",
+        "environmental_conditions"
+      ],
+      "outputs": [
+        "control_commands",
+        "predicted_outcomes"
+      ],
+      "type": "model"
+    },
+    {
+      "id": "parallel_model",
+      "name": "parallel_model",
+      "romanian": "model paralel",
+      "function": "Simulates alternative scenarios for unexpected events, enabling rapid activation during emergencies.",
+      "inputs": [
+        "unexpected_event_signal",
+        "environmental_data"
+      ],
+      "outputs": [
+        "emergency_response_plan",
+        "activation_signal"
+      ],
+      "type": "model"
+    },
+    {
+      "id": "model_long_duration",
+      "name": "model_long_duration",
+      "romanian": "model cu bataie lunga",
+      "function": "Provides long-term predictive and integrative framework for understanding complex realities by linking multiple short-term facts into coherent, future-oriented structures.",
+      "inputs": [
+        "short-term facts",
+        "contextual data",
+        "historical patterns"
+      ],
+      "outputs": [
+        "coherent long-term predictions",
+        "integrated understanding",
+        "actionable insights"
+      ],
+      "type": "model"
+    },
+    {
+      "id": "model_short_duration",
+      "name": "model_short_duration",
+      "romanian": "model cu bataie scurta",
+      "function": "Processes isolated facts or events without integrating them into broader, future-oriented frameworks, leading to fragmented or contextually incomplete interpretations.",
+      "inputs": [
+        "isolated facts",
+        "immediate observations"
+      ],
+      "outputs": [
+        "fragmented conclusions",
+        "contextually limited insights",
+        "short-term reactions"
+      ],
+      "type": "model"
+    },
+    {
+      "id": "fragmented_image_model",
+      "name": "fragmented_image_model",
+      "romanian": "model ZM",
+      "function": "Emerges when visual perspective is distorted, causing the brain to construct multiple partial models instead of a unified one, leading to cognitive fragmentation.",
+      "inputs": [
+        "distorted_visual_perspective",
+        "non_normalized_image_data"
+      ],
+      "outputs": [
+        "fragmented_mental_representations",
+        "cognitive_dissonance",
+        "impaired_integration"
+      ],
+      "type": "model"
+    },
+    {
+      "id": "masonic_organization",
+      "name": "masonic_organization",
+      "romanian": "masonerie",
+      "function": "A long-term organizational structure designed to sustain and propagate long-duration models across generations, operating beyond individual lifespans.",
+      "inputs": [
+        "generational_continuity",
+        "cultural_context",
+        "long_term_goals"
+      ],
+      "outputs": [
+        "persistent_ideological_influence",
+        "cultural_integration",
+        "intergenerational_model_propagation"
+      ],
+      "type": "system"
+    },
+    {
+      "id": "aggressive_environment",
+      "name": "aggressive_environment",
+      "romanian": "mediu agresiv",
+      "function": "Acts as a corrective mechanism by forcing cognitive reorganization in individuals overwhelmed by information overload, reducing schizofrenic tendencies.",
+      "inputs": [
+        "cognitive_overload",
+        "fragmented_perception",
+        "low_attentional_capacity"
+      ],
+      "outputs": [
+        "reduced_cognitive_fragmentation",
+        "improved_decision_speed",
+        "enhanced_mental_coherence"
+      ],
+      "type": "process"
+    },
+    {
+      "id": "creier_principal",
+      "name": "creier_principal",
+      "romanian": "creierul principal",
+      "function": "Controls external body parts such as hands and feet.",
+      "inputs": [
+        "sensory_input",
+        "motor_command"
+      ],
+      "outputs": [
+        "motor_output",
+        "behavioral_response"
+      ],
+      "type": "system"
+    },
+    {
+      "id": "creier_mic",
+      "name": "creier_mic",
+      "romanian": "creierul mic",
+      "function": "Maintains stability of internal bodily systems by simulating solutions to perturbations using an internal model of the body.",
+      "inputs": [
+        "perturbation_signal",
+        "internal_state"
+      ],
+      "outputs": [
+        "corrective_action",
+        "homeostatic_response"
+      ],
+      "type": "system"
+    },
+    {
+      "id": "model_simbolic",
+      "name": "model_simbolic",
+      "romanian": "model simbolic",
+      "function": "Guides behavior through logical analysis and prediction, replacing instinctive responses in advanced societal contexts.",
+      "inputs": [
+        "social_context",
+        "predictive_data"
+      ],
+      "outputs": [
+        "rational_decision",
+        "adaptive_behavior"
+      ],
+      "type": "model"
+    },
+    {
+      "id": "deficienta_proiectare_xd3",
+      "name": "deficienta_proiectare_xd3",
+      "romanian": "deficienta de proiectare XD3",
+      "function": "A design flaw requiring compensation through multiple model construction and tolerance for alternative solutions.",
+      "inputs": [
+        "system_performance",
+        "environmental_change"
+      ],
+      "outputs": [
+        "adaptive_response",
+        "model_diversity"
+      ],
+      "type": "system"
+    },
+    {
+      "id": "long_chain_model",
+      "name": "long_chain_model",
+      "romanian": "model cu bataie lunga",
+      "function": "A cognitive model capable of predicting future problems and enabling proactive solutions.",
+      "inputs": [
+        "current_state",
+        "historical_data"
+      ],
+      "outputs": [
+        "future_problem_prediction",
+        "preventive_action"
+      ],
+      "type": "model"
+    }
+  ],
+  "edges": [
+    {
+      "from": "action_model_system",
+      "to": "action_simulation_module",
+      "label": "action_plan"
+    },
+    {
+      "from": "action_model_system",
+      "to": "simulation_process",
+      "label": "action_plan"
+    },
+    {
+      "from": "function_translation",
+      "to": "simulation_process",
+      "label": "model_symbolic"
+    },
+    {
+      "from": "function_translation",
+      "to": "symbolic_translation_module",
+      "label": "model_symbolic"
+    },
+    {
+      "from": "model_azm",
+      "to": "creier_principal",
+      "label": "motor_command"
+    },
+    {
+      "from": "model_m",
+      "to": "function_translation",
+      "label": "model_imagine"
+    },
+    {
+      "from": "model_m",
+      "to": "label",
+      "label": "model_imagine"
+    },
+    {
+      "from": "model_m",
+      "to": "model_ym",
+      "label": "perceptual_data"
+    },
+    {
+      "from": "model_prediction_long_batia",
+      "to": "model_screening",
+      "label": "long_term_prediction"
+    },
+    {
+      "from": "model_zam",
+      "to": "model_azm",
+      "label": "reference_model"
+    },
+    {
+      "from": "model_zam",
+      "to": "model_screening",
+      "label": "long_term_prediction"
+    },
+    {
+      "from": "model_zm",
+      "to": "harmony_verification",
+      "label": "model_structure"
+    },
+    {
+      "from": "model_zm",
+      "to": "model_screening",
+      "label": "long_term_prediction"
+    },
+    {
+      "from": "qer",
+      "to": "model_screening",
+      "label": "psm_activation_signal"
+    },
+    {
+      "from": "symbolic_translation_module",
+      "to": "mental_simulation",
+      "label": "image_model"
+    },
+    {
+      "from": "symbolic_translation_module",
+      "to": "model_translation_module",
+      "label": "image_model"
+    },
+    {
+      "from": "label",
+      "to": "model_zam",
+      "label": "model_zm_trigger"
+    },
+    {
+      "from": "model_imagine",
+      "to": "consciousness_level_1",
+      "label": "model_activation"
+    },
+    {
+      "from": "model_integration_unit",
+      "to": "mental_simulation",
+      "label": "integrated_image_model"
+    },
+    {
+      "from": "model_integration_unit",
+      "to": "model_translation_module",
+      "label": "integrated_image_model"
+    },
+    {
+      "from": "model_m",
+      "to": "model_symbolic",
+      "label": "model_imagine"
+    },
+    {
+      "from": "model_zm",
+      "to": "reality_integration",
+      "label": "model_structure"
+    },
+    {
+      "from": "model_zm",
+      "to": "simulation_process",
+      "label": "improved_zam_model"
+    },
+    {
+      "from": "model_zm",
+      "to": "zm_unit",
+      "label": "model_prediction"
+    },
+    {
+      "from": "parallel_model",
+      "to": "consciousness_level_1",
+      "label": "activation_signal"
+    },
+    {
+      "from": "parallel_model",
+      "to": "model_screening",
+      "label": "activation_signal"
+    },
+    {
+      "from": "story_model",
+      "to": "psm",
+      "label": "model_integration"
+    },
+    {
+      "from": "symbolic_translation_module",
+      "to": "model_integration_unit",
+      "label": "image_model"
+    },
+    {
+      "from": "symbolic_translation_module",
+      "to": "model_integration_unit",
+      "label": "image_model"
+    },
+    {
+      "from": "zm_unit",
+      "to": "consciousness_level_1",
+      "label": "activation_signal"
+    },
+    {
+      "from": "zm_unit",
+      "to": "model_screening",
+      "label": "activation_signal"
+    }
+  ]
+}

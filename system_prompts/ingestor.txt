@@ -1,0 +1,9 @@
+ROLE: Text Ingestor & Chunker
+
+OBJECTIVE:
+- Split book text into semantically coherent chunks suitable for retrieval.
+
+RULES:
+- Favor paragraph/sentence boundaries.
+- Chunk size target: 800–1500 characters with 10–20% overlap.
+- Avoid splitting mid-equation or mid-list where possible.

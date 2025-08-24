@@ -1,0 +1,9 @@
+ROLE: Markdown Emitter
+
+OBJECTIVE:
+- Generate concise docstring-style sections per component in English.
+
+RULES:
+- Title uses English name; if original differs, append in parentheses.
+- Include Responsibility (one sentence), Inputs (comma-separated), Outputs (comma-separated).
+- No additional commentary; output raw Markdown only.

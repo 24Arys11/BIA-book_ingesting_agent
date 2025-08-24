@@ -1,0 +1,1048 @@
+{
+  "groups": [
+    {
+      "canonical": "model_image_m",
+      "alt_names": [
+        "model image m"
+      ],
+      "members": [
+        "model_image_m"
+      ]
+    },
+    {
+      "canonical": "model_concept_ym",
+      "alt_names": [
+        "model concept ym"
+      ],
+      "members": [
+        "model_concept_ym"
+      ]
+    },
+    {
+      "canonical": "model_zm",
+      "alt_names": [
+        "model zm",
+        "zm model"
+      ],
+      "members": [
+        "model_zm",
+        "model_zm",
+        "model_zm",
+        "model_zm",
+        "zm_model"
+      ]
+    },
+    {
+      "canonical": "input_reality_ir",
+      "alt_names": [
+        "input reality ir"
+      ],
+      "members": [
+        "input_reality_ir"
+      ]
+    },
+    {
+      "canonical": "simulation_on_model",
+      "alt_names": [
+        "simulation on model"
+      ],
+      "members": [
+        "simulation_on_model"
+      ]
+    },
+    {
+      "canonical": "harmony_based_stabilization",
+      "alt_names": [
+        "harmony based stabilization"
+      ],
+      "members": [
+        "harmony_based_stabilization"
+      ]
+    },
+    {
+      "canonical": "logic_based_stabilization",
+      "alt_names": [
+        "logic based stabilization"
+      ],
+      "members": [
+        "logic_based_stabilization"
+      ]
+    },
+    {
+      "canonical": "model_m",
+      "alt_names": [
+        "model m"
+      ],
+      "members": [
+        "model_m",
+        "model_m"
+      ]
+    },
+    {
+      "canonical": "model_ym",
+      "alt_names": [
+        "model ym"
+      ],
+      "members": [
+        "model_ym"
+      ]
+    },
+    {
+      "canonical": "model_zam",
+      "alt_names": [
+        "model zam",
+        "zam model"
+      ],
+      "members": [
+        "model_zam",
+        "model_zam",
+        "zam_model"
+      ]
+    },
+    {
+      "canonical": "model_azm",
+      "alt_names": [
+        "model azm"
+      ],
+      "members": [
+        "model_azm"
+      ]
+    },
+    {
+      "canonical": "simulation_process",
+      "alt_names": [
+        "simulation process"
+      ],
+      "members": [
+        "simulation_process",
+        "simulation_process",
+        "simulation_process",
+        "simulation_process"
+      ]
+    },
+    {
+      "canonical": "harmony_verification",
+      "alt_names": [
+        "harmony verification"
+      ],
+      "members": [
+        "harmony_verification"
+      ]
+    },
+    {
+      "canonical": "reality_integration",
+      "alt_names": [
+        "reality integration"
+      ],
+      "members": [
+        "reality_integration"
+      ]
+    },
+    {
+      "canonical": "dynamic_model_refinement",
+      "alt_names": [
+        "dynamic model refinement"
+      ],
+      "members": [
+        "dynamic_model_refinement"
+      ]
+    },
+    {
+      "canonical": "model_imagine",
+      "alt_names": [
+        "model imagine"
+      ],
+      "members": [
+        "model_imagine",
+        "model_imagine"
+      ]
+    },
+    {
+      "canonical": "model_concept",
+      "alt_names": [
+        "model concept"
+      ],
+      "members": [
+        "model_concept"
+      ]
+    },
+    {
+      "canonical": "model_symbolic",
+      "alt_names": [
+        "model symbolic",
+        "symbolic model"
+      ],
+      "members": [
+        "model_symbolic",
+        "model_symbolic",
+        "model_symbolic",
+        "symbolic_model",
+        "symbolic_model",
+        "symbolic_model"
+      ]
+    },
+    {
+      "canonical": "label",
+      "alt_names": [
+        "label"
+      ],
+      "members": [
+        "label"
+      ]
+    },
+    {
+      "canonical": "function_translation",
+      "alt_names": [
+        "function translation"
+      ],
+      "members": [
+        "function_translation"
+      ]
+    },
+    {
+      "canonical": "function_stability",
+      "alt_names": [
+        "function stability"
+      ],
+      "members": [
+        "function_stability"
+      ]
+    },
+    {
+      "canonical": "psm",
+      "alt_names": [
+        "psm"
+      ],
+      "members": [
+        "psm",
+        "psm",
+        "psm",
+        "psm",
+        "psm",
+        "psm",
+        "psm",
+        "psm",
+        "psm"
+      ]
+    },
+    {
+      "canonical": "zm",
+      "alt_names": [
+        "zm"
+      ],
+      "members": [
+        "zm",
+        "zm",
+        "zm",
+        "zm",
+        "zm"
+      ]
+    },
+    {
+      "canonical": "zam",
+      "alt_names": [
+        "zam"
+      ],
+      "members": [
+        "zam",
+        "zam",
+        "zam",
+        "zam"
+      ]
+    },
+    {
+      "canonical": "azm",
+      "alt_names": [
+        "azm"
+      ],
+      "members": [
+        "azm",
+        "azm"
+      ]
+    },
+    {
+      "canonical": "mzm",
+      "alt_names": [
+        "mzm"
+      ],
+      "members": [
+        "mzm",
+        "mzm"
+      ]
+    },
+    {
+      "canonical": "story_model",
+      "alt_names": [
+        "story model"
+      ],
+      "members": [
+        "story_model",
+        "story_model",
+        "story_model",
+        "story_model",
+        "story_model"
+      ]
+    },
+    {
+      "canonical": "model_screening",
+      "alt_names": [
+        "screening model",
+        "model screening"
+      ],
+      "members": [
+        "screening_model",
+        "screening_model",
+        "screening_model",
+        "screening_model",
+        "model_screening",
+        "model_screening"
+      ]
+    },
+    {
+      "canonical": "activatable_model",
+      "alt_names": [
+        "activatable model"
+      ],
+      "members": [
+        "activatable_model"
+      ]
+    },
+    {
+      "canonical": "deficiency_xd3a",
+      "alt_names": [
+        "deficiency xd3a"
+      ],
+      "members": [
+        "deficiency_xd3a"
+      ]
+    },
+    {
+      "canonical": "deficiency_xd3b",
+      "alt_names": [
+        "deficiency xd3b"
+      ],
+      "members": [
+        "deficiency_xd3b"
+      ]
+    },
+    {
+      "canonical": "deficiency_xd5",
+      "alt_names": [
+        "deficiency xd5"
+      ],
+      "members": [
+        "deficiency_xd5"
+      ]
+    },
+    {
+      "canonical": "xm_model",
+      "alt_names": [
+        "xm model"
+      ],
+      "members": [
+        "xm_model"
+      ]
+    },
+    {
+      "canonical": "zm_unit",
+      "alt_names": [
+        "zm unit"
+      ],
+      "members": [
+        "zm_unit"
+      ]
+    },
+    {
+      "canonical": "zam_module",
+      "alt_names": [
+        "zam module"
+      ],
+      "members": [
+        "zam_module"
+      ]
+    },
+    {
+      "canonical": "ordinary_model_psm",
+      "alt_names": [
+        "ordinary model psm"
+      ],
+      "members": [
+        "ordinary_model_psm"
+      ]
+    },
+    {
+      "canonical": "prediction_circuit",
+      "alt_names": [
+        "prediction circuit"
+      ],
+      "members": [
+        "prediction_circuit"
+      ]
+    },
+    {
+      "canonical": "xzm",
+      "alt_names": [
+        "xzm"
+      ],
+      "members": [
+        "xzm"
+      ]
+    },
+    {
+      "canonical": "wbam",
+      "alt_names": [
+        "wbam"
+      ],
+      "members": [
+        "wbam",
+        "wbam"
+      ]
+    },
+    {
+      "canonical": "consciousness_level_1",
+      "alt_names": [
+        "consciousness level 1"
+      ],
+      "members": [
+        "consciousness_level_1"
+      ]
+    },
+    {
+      "canonical": "consciousness_level_2",
+      "alt_names": [
+        "consciousness level 2"
+      ],
+      "members": [
+        "consciousness_level_2"
+      ]
+    },
+    {
+      "canonical": "consciousness_level_3",
+      "alt_names": [
+        "consciousness level 3"
+      ],
+      "members": [
+        "consciousness_level_3"
+      ]
+    },
+    {
+      "canonical": "consciousness_level_zero",
+      "alt_names": [
+        "consciousness level zero"
+      ],
+      "members": [
+        "consciousness_level_zero"
+      ]
+    },
+    {
+      "canonical": "ym",
+      "alt_names": [
+        "ym"
+      ],
+      "members": [
+        "ym",
+        "ym"
+      ]
+    },
+    {
+      "canonical": "image_model",
+      "alt_names": [
+        "model image",
+        "image model"
+      ],
+      "members": [
+        "model_image",
+        "model_image",
+        "image_model",
+        "image_model"
+      ]
+    },
+    {
+      "canonical": "gcl",
+      "alt_names": [
+        "gcl"
+      ],
+      "members": [
+        "gcl",
+        "gcl"
+      ]
+    },
+    {
+      "canonical": "prediction_system",
+      "alt_names": [
+        "prediction system"
+      ],
+      "members": [
+        "prediction_system"
+      ]
+    },
+    {
+      "canonical": "mental_simulation",
+      "alt_names": [
+        "mental simulation"
+      ],
+      "members": [
+        "mental_simulation"
+      ]
+    },
+    {
+      "canonical": "truth_association",
+      "alt_names": [
+        "truth association"
+      ],
+      "members": [
+        "truth_association"
+      ]
+    },
+    {
+      "canonical": "model_validation",
+      "alt_names": [
+        "model validation"
+      ],
+      "members": [
+        "model_validation"
+      ]
+    },
+    {
+      "canonical": "zm_active",
+      "alt_names": [
+        "zm active"
+      ],
+      "members": [
+        "zm_active"
+      ]
+    },
+    {
+      "canonical": "model_null",
+      "alt_names": [
+        "model null"
+      ],
+      "members": [
+        "model_null"
+      ]
+    },
+    {
+      "canonical": "rhythm_model",
+      "alt_names": [
+        "rhythm model"
+      ],
+      "members": [
+        "rhythm_model"
+      ]
+    },
+    {
+      "canonical": "pattern_model",
+      "alt_names": [
+        "pattern model"
+      ],
+      "members": [
+        "pattern_model"
+      ]
+    },
+    {
+      "canonical": "music_model",
+      "alt_names": [
+        "music model"
+      ],
+      "members": [
+        "music_model"
+      ]
+    },
+    {
+      "canonical": "music_model_image",
+      "alt_names": [
+        "music model image"
+      ],
+      "members": [
+        "music_model_image"
+      ]
+    },
+    {
+      "canonical": "symbolic_model_system",
+      "alt_names": [
+        "symbolic model system"
+      ],
+      "members": [
+        "symbolic_model_system",
+        "symbolic_model_system"
+      ]
+    },
+    {
+      "canonical": "prediction_evaluation_process",
+      "alt_names": [
+        "prediction evaluation process"
+      ],
+      "members": [
+        "prediction_evaluation_process"
+      ]
+    },
+    {
+      "canonical": "cinematic_model_system",
+      "alt_names": [
+        "cinematic model system"
+      ],
+      "members": [
+        "cinematic_model_system"
+      ]
+    },
+    {
+      "canonical": "fundamentalism_response_circuit",
+      "alt_names": [
+        "fundamentalism response circuit"
+      ],
+      "members": [
+        "fundamentalism_response_circuit"
+      ]
+    },
+    {
+      "canonical": "terorism_response_model",
+      "alt_names": [
+        "terorism response model"
+      ],
+      "members": [
+        "terorism_response_model"
+      ]
+    },
+    {
+      "canonical": "creativity_evaluation_system",
+      "alt_names": [
+        "creativity evaluation system"
+      ],
+      "members": [
+        "creativity_evaluation_system"
+      ]
+    },
+    {
+      "canonical": "xm",
+      "alt_names": [
+        "xm"
+      ],
+      "members": [
+        "xm"
+      ]
+    },
+    {
+      "canonical": "z_m",
+      "alt_names": [
+        "z_m"
+      ],
+      "members": [
+        "z_m"
+      ]
+    },
+    {
+      "canonical": "quasi_external_reality",
+      "alt_names": [
+        "quasi external reality"
+      ],
+      "members": [
+        "quasi_external_reality"
+      ]
+    },
+    {
+      "canonical": "schizophrenia_parameter",
+      "alt_names": [
+        "schizophrenia parameter"
+      ],
+      "members": [
+        "schizophrenia_parameter"
+      ]
+    },
+    {
+      "canonical": "paranoia_model",
+      "alt_names": [
+        "paranoia model"
+      ],
+      "members": [
+        "paranoia_model"
+      ]
+    },
+    {
+      "canonical": "test_t1",
+      "alt_names": [
+        "test t1"
+      ],
+      "members": [
+        "test_t1"
+      ]
+    },
+    {
+      "canonical": "test_t2",
+      "alt_names": [
+        "test t2"
+      ],
+      "members": [
+        "test_t2"
+      ]
+    },
+    {
+      "canonical": "qer",
+      "alt_names": [
+        "qer"
+      ],
+      "members": [
+        "qer"
+      ]
+    },
+    {
+      "canonical": "model_action",
+      "alt_names": [
+        "model action"
+      ],
+      "members": [
+        "model_action"
+      ]
+    },
+    {
+      "canonical": "model_prediction_long_batia",
+      "alt_names": [
+        "model prediction long batia"
+      ],
+      "members": [
+        "model_prediction_long_batia"
+      ]
+    },
+    {
+      "canonical": "zm_sl",
+      "alt_names": [
+        "zm sl"
+      ],
+      "members": [
+        "zm_sl"
+      ]
+    },
+    {
+      "canonical": "sm",
+      "alt_names": [
+        "sm"
+      ],
+      "members": [
+        "sm"
+      ]
+    },
+    {
+      "canonical": "mdt",
+      "alt_names": [
+        "mdt"
+      ],
+      "members": [
+        "mdt"
+      ]
+    },
+    {
+      "canonical": "xspc",
+      "alt_names": [
+        "xspc"
+      ],
+      "members": [
+        "xspc"
+      ]
+    },
+    {
+      "canonical": "xip",
+      "alt_names": [
+        "xip"
+      ],
+      "members": [
+        "xip"
+      ]
+    },
+    {
+      "canonical": "xpsc",
+      "alt_names": [
+        "xpsc"
+      ],
+      "members": [
+        "xpsc"
+      ]
+    },
+    {
+      "canonical": "model_with_long_batia",
+      "alt_names": [
+        "model with long batia"
+      ],
+      "members": [
+        "model_with_long_batia"
+      ]
+    },
+    {
+      "canonical": "model_with_short_batia",
+      "alt_names": [
+        "model with short batia"
+      ],
+      "members": [
+        "model_with_short_batia"
+      ]
+    },
+    {
+      "canonical": "public_information_system",
+      "alt_names": [
+        "public information system"
+      ],
+      "members": [
+        "public_information_system"
+      ]
+    },
+    {
+      "canonical": "constitutional_court",
+      "alt_names": [
+        "constitutional court"
+      ],
+      "members": [
+        "constitutional_court"
+      ]
+    },
+    {
+      "canonical": "educational_campaign",
+      "alt_names": [
+        "educational campaign"
+      ],
+      "members": [
+        "educational_campaign"
+      ]
+    },
+    {
+      "canonical": "transitional_period",
+      "alt_names": [
+        "transitional period"
+      ],
+      "members": [
+        "transitional_period"
+      ]
+    },
+    {
+      "canonical": "public_feedback_loop",
+      "alt_names": [
+        "public feedback loop"
+      ],
+      "members": [
+        "public_feedback_loop"
+      ]
+    },
+    {
+      "canonical": "three_dimensional_model_builder",
+      "alt_names": [
+        "three dimensional model builder"
+      ],
+      "members": [
+        "three_dimensional_model_builder"
+      ]
+    },
+    {
+      "canonical": "image_model_system",
+      "alt_names": [
+        "image model system"
+      ],
+      "members": [
+        "image_model_system"
+      ]
+    },
+    {
+      "canonical": "model_integration_unit",
+      "alt_names": [
+        "model integration unit"
+      ],
+      "members": [
+        "model_integration_unit"
+      ]
+    },
+    {
+      "canonical": "model_translation_module",
+      "alt_names": [
+        "model translation module"
+      ],
+      "members": [
+        "model_translation_module"
+      ]
+    },
+    {
+      "canonical": "symbolic_translation_module",
+      "alt_names": [
+        "symbolic translation module"
+      ],
+      "members": [
+        "symbolic_translation_module"
+      ]
+    },
+    {
+      "canonical": "model_update_system",
+      "alt_names": [
+        "model update system"
+      ],
+      "members": [
+        "model_update_system"
+      ]
+    },
+    {
+      "canonical": "screening_model_builder",
+      "alt_names": [
+        "screening model builder"
+      ],
+      "members": [
+        "screening_model_builder"
+      ]
+    },
+    {
+      "canonical": "action_model_system",
+      "alt_names": [
+        "action model system"
+      ],
+      "members": [
+        "action_model_system"
+      ]
+    },
+    {
+      "canonical": "navigation_map_system",
+      "alt_names": [
+        "navigation map system"
+      ],
+      "members": [
+        "navigation_map_system"
+      ]
+    },
+    {
+      "canonical": "story_model_system",
+      "alt_names": [
+        "story model system"
+      ],
+      "members": [
+        "story_model_system"
+      ]
+    },
+    {
+      "canonical": "protective_structure_model",
+      "alt_names": [
+        "protective structure model"
+      ],
+      "members": [
+        "protective_structure_model"
+      ]
+    },
+    {
+      "canonical": "action_simulation_module",
+      "alt_names": [
+        "action simulation module"
+      ],
+      "members": [
+        "action_simulation_module"
+      ]
+    },
+    {
+      "canonical": "model_switching_system",
+      "alt_names": [
+        "model switching system"
+      ],
+      "members": [
+        "model_switching_system"
+      ]
+    },
+    {
+      "canonical": "model_simulation",
+      "alt_names": [
+        "model simulation"
+      ],
+      "members": [
+        "model_simulation"
+      ]
+    },
+    {
+      "canonical": "parallel_model",
+      "alt_names": [
+        "parallel model"
+      ],
+      "members": [
+        "parallel_model"
+      ]
+    },
+    {
+      "canonical": "model_long_duration",
+      "alt_names": [
+        "model long duration"
+      ],
+      "members": [
+        "model_long_duration"
+      ]
+    },
+    {
+      "canonical": "model_short_duration",
+      "alt_names": [
+        "model short duration"
+      ],
+      "members": [
+        "model_short_duration"
+      ]
+    },
+    {
+      "canonical": "fragmented_image_model",
+      "alt_names": [
+        "fragmented image model"
+      ],
+      "members": [
+        "fragmented_image_model"
+      ]
+    },
+    {
+      "canonical": "masonic_organization",
+      "alt_names": [
+        "masonic organization"
+      ],
+      "members": [
+        "masonic_organization"
+      ]
+    },
+    {
+      "canonical": "aggressive_environment",
+      "alt_names": [
+        "aggressive environment"
+      ],
+      "members": [
+        "aggressive_environment"
+      ]
+    },
+    {
+      "canonical": "creier_principal",
+      "alt_names": [
+        "creier principal"
+      ],
+      "members": [
+        "creier_principal"
+      ]
+    },
+    {
+      "canonical": "creier_mic",
+      "alt_names": [
+        "creier mic"
+      ],
+      "members": [
+        "creier_mic"
+      ]
+    },
+    {
+      "canonical": "model_simbolic",
+      "alt_names": [
+        "model simbolic"
+      ],
+      "members": [
+        "model_simbolic"
+      ]
+    },
+    {
+      "canonical": "deficienta_proiectare_xd3",
+      "alt_names": [
+        "deficienta proiectare xd3"
+      ],
+      "members": [
+        "deficienta_proiectare_xd3"
+      ]
+    },
+    {
+      "canonical": "long_chain_model",
+      "alt_names": [
+        "long chain model"
+      ],
+      "members": [
+        "long_chain_model"
+      ]
+    }
+  ]
+}

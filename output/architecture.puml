@@ -1,0 +1,103 @@
+@startuml
+[model_m] as "model_m (model M)"
+[model_ym] as "model_ym (model YM)"
+[model_zm] as "model_zm (model ZM)"
+[model_zam] as "model_zam (model ZAM)"
+[model_azm] as "model_azm (model AZM)"
+[model_imagine] as "model_imagine (model imagine)"
+[model_symbolic] as "model_symbolic (model simbolic)"
+[label] as "label (eticheta)"
+[function_translation] as "function_translation (functia de translatare)"
+[psm] as "psm (PSM)"
+[zm_unit] as "zm_unit (ZM)"
+[zam_module] as "zam_module (ZAM)"
+[prediction_circuit] as "prediction_circuit (circuitul de predictie)"
+[mental_simulation] as "mental_simulation (simulare mentală)"
+[truth_association] as "truth_association (asocierea adevărului)"
+[model_validation] as "model_validation (validarea modelului)"
+[simulation_process] as "simulation_process (procesul de simulare pe model)"
+[harmony_verification] as "harmony_verification (verificarea armoniei)"
+[reality_integration] as "reality_integration (integrarea realitatii)"
+[dynamic_model_refinement] as "dynamic_model_refinement (refacerea dinamica a modelului)"
+[story_model] as "story_model (model poveste)"
+[model_screening] as "model_screening (model de ecranare)"
+[activatable_model] as "activatable_model (model activabil)"
+[xm_model] as "xm_model (modelul XZM)"
+[xzm] as "xzm (XZM)"
+[wbam] as "wbam (WBAM)"
+[consciousness_level_0] as "consciousness_level_0 (constiinta de nivel zero)"
+[consciousness_level_1] as "consciousness_level_1 (constiinta de nivel 1)"
+[consciousness_level_2] as "consciousness_level_2 (constiinta de nivel 2)"
+[consciousness_level_3] as "consciousness_level_3 (constiinta de nivel 3)"
+[quasi_external_reality] as "quasi_external_reality (QER)"
+[schizophrenia_parameter] as "schizophrenia_parameter (parametrul schizofrenie)"
+[paranoia_model] as "paranoia_model (OMPSM)"
+[qer] as "qer (QER)"
+[model_action] as "model_action (model de actiune)"
+[model_prediction_long_batia] as "model_prediction_long_batia (model cu bataie lunga)"
+[zm_sl] as "zm_sl (ZM-SL)"
+[sm] as "sm (SM)"
+[mdt] as "mdt (MDT)"
+[model_with_long_batia] as "model_with_long_batia (model cu bataie lunga)"
+[model_with_short_batia] as "model_with_short_batia (model cu bataie scurta)"
+[public_information_system] as "public_information_system (sistem de informatii publice)"
+[educational_campaign] as "educational_campaign (campanie de educare)"
+[transitional_period] as "transitional_period (perioada tranzitorie)"
+[public_feedback_loop] as "public_feedback_loop (bucla de feedback public)"
+[three_dimensional_model_builder] as "three_dimensional_model_builder (construcția modelului tridimensional)"
+[image_model_system] as "image_model_system (model imagine)"
+[model_integration_unit] as "model_integration_unit (integrează un model imagine)"
+[model_translation_module] as "model_translation_module (translata un model imagine)"
+[symbolic_translation_module] as "symbolic_translation_module (translata un model simbolic)"
+[model_update_system] as "model_update_system (actualizează modelele preexistente)"
+[screening_model_builder] as "screening_model_builder (construieste modele de ecranare)"
+[action_model_system] as "action_model_system (model de actiune)"
+[navigation_map_system] as "navigation_map_system (harta)"
+[story_model_system] as "story_model_system (model poveste)"
+[protective_structure_model] as "protective_structure_model (PSM)"
+[action_simulation_module] as "action_simulation_module (simulare a actiunii)"
+[model_switching_system] as "model_switching_system (operare alternativă)"
+[model_simulation] as "model_simulation (model)"
+[parallel_model] as "parallel_model (model paralel)"
+[model_long_duration] as "model_long_duration (model cu bataie lunga)"
+[model_short_duration] as "model_short_duration (model cu bataie scurta)"
+[fragmented_image_model] as "fragmented_image_model (model ZM)"
+[masonic_organization] as "masonic_organization (masonerie)"
+[aggressive_environment] as "aggressive_environment (mediu agresiv)"
+[creier_principal] as "creier_principal (creierul principal)"
+[creier_mic] as "creier_mic (creierul mic)"
+[model_simbolic] as "model_simbolic (model simbolic)"
+[deficienta_proiectare_xd3] as "deficienta_proiectare_xd3 (deficienta de proiectare XD3)"
+[long_chain_model] as "long_chain_model (model cu bataie lunga)"
+[action_model_system] -->> [action_simulation_module] : action_plan
+[action_model_system] -->> [simulation_process] : action_plan
+[function_translation] -->> [simulation_process] : model_symbolic
+[function_translation] -->> [symbolic_translation_module] : model_symbolic
+[model_azm] -->> [creier_principal] : motor_command
+[model_m] -->> [function_translation] : model_imagine
+[model_m] -->> [label] : model_imagine
+[model_m] -->> [model_ym] : perceptual_data
+[model_prediction_long_batia] -->> [model_screening] : long_term_prediction
+[model_zam] -->> [model_azm] : reference_model
+[model_zam] -->> [model_screening] : long_term_prediction
+[model_zm] -->> [harmony_verification] : model_structure
+[model_zm] -->> [model_screening] : long_term_prediction
+[qer] -->> [model_screening] : psm_activation_signal
+[symbolic_translation_module] -->> [mental_simulation] : image_model
+[symbolic_translation_module] -->> [model_translation_module] : image_model
+[label] -->> [model_zam] : model_zm_trigger
+[model_imagine] -->> [consciousness_level_1] : model_activation
+[model_integration_unit] -->> [mental_simulation] : integrated_image_model
+[model_integration_unit] -->> [model_translation_module] : integrated_image_model
+[model_m] -->> [model_symbolic] : model_imagine
+[model_zm] -->> [reality_integration] : model_structure
+[model_zm] -->> [simulation_process] : improved_zam_model
+[model_zm] -->> [zm_unit] : model_prediction
+[parallel_model] -->> [consciousness_level_1] : activation_signal
+[parallel_model] -->> [model_screening] : activation_signal
+[story_model] -->> [psm] : model_integration
+[symbolic_translation_module] -->> [model_integration_unit] : image_model
+[symbolic_translation_module] -->> [model_integration_unit] : image_model
+[zm_unit] -->> [consciousness_level_1] : activation_signal
+[zm_unit] -->> [model_screening] : activation_signal
+@enduml

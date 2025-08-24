@@ -1,0 +1,7 @@
+I have a book describing a theory for how the brain would work at a micro level - a cognitive architecture. The book will not fit in the context of an LLM. Based on the book I want to achieve the following project:
+- A cognitive architecture described by a markdown file and a diagram in software engineering friendly language. This means there has to be components defined with inputs and outputs (elaborations and explanations would be done in the markdown). This is possible as the book clearly describes the brain composed of different types of neuronal "models" with different responsibilities.
+- In the markdown, there has to be a clear description for every cognitive part (model), but functionality oriented and not too long - just like docstrings describe what a function does in a python method for example. With this, we should be able to summarize a ~200 page book in less then 10 pages.
+- The diagram must have the correct inputs and outputs for every model. It should contain the architecture of the brain, or if not clear from the book, some examples of possible architectures, or just architectures of larger components... Whatever can be accurately extracted from the book.
+- The book is in Romanian language. The markdown and the diagram should be in English (But, if it is a translation confusion somewhere, we could also have the original words in parenthesis).
+
+Generate the markdown file with brief (docstring-style) descriptions of cognitive components and the component diagram.
